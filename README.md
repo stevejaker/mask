@@ -1,6 +1,12 @@
 # mask
 Python CLI tool for checking for and masking confidential information from files.
 
+## Recommended Setup (Linux/Unix)
+```
+$ git clone https://github.com/stevejaker/mask.git
+$ cd mask/
+$ bash setup.sh
+```
 ## Usage Menu
 ```
 $ mask -h
